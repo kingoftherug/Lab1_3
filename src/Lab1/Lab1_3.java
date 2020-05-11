@@ -1,5 +1,4 @@
 package Lab1;
-
 import Tools.UserInpurt;
 
 public class Lab1_3 {
